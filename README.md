@@ -5,16 +5,8 @@
 ## 📌 Papers by Category
 
 ### 🏷️ LLM (Large Language Models)
-#| Date | Title | Keywords | Affiliation | Notes | Link | Review |
-#|------|-------|----------|-------------|-------|------|
-#| 2024.04 | [OpenELM: An Efficient Language Model Family](https://arxiv.org/abs/XXXX) | Layer-wise Scaling | Apple | Summary | [🔗](https://arxiv.org/abs/XXXX) |
-#| 2024.03 | [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/XXXX) | Jamba, MoE | AI21 Labs | Summary | [🔗](https://arxiv.org/abs/XXXX) |
 
 ### 🏷️ Reasoning & Inference
-#| Date | Title | Keywords | Affiliation | Notes | Link | Review |
-#|------|-------|----------|-------------|-------|------|
-#| 2024.04 | [Self-Explore to Avoid the Pit](https://arxiv.org/abs/XXXX) | Self-Explore, Fine-Grained Learning Signals | KAIST | Summary | [🔗](https://arxiv.org/abs/XXXX) |
-#| 2024.02 | [Boosting of Thoughts](https://arxiv.org/abs/XXXX) | Trial-and-Error | University of Toronto | Summary | [🔗](https://arxiv.org/abs/XXXX) |
 
 ### 🏷️ Retrieval-Augmented Generation (RAG)
 | Date | Title | Keywords | Affiliation | Notes | Link | Review |
