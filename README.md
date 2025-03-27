@@ -5,7 +5,9 @@
 ## 📌 Papers by Category
 
 ### 🏷️ LLM (Large Language Models)
-
+| Date | Title | Keywords | Affiliation | Notes | Link | Review |
+|------|-------|----------|-------------|-------|------|--------|
+| 2017.06 | [Attention is All You Need](https://arxiv.org/abs/1706.03762) | Transformer, Attention | Google Research | Introduced Transformer model | [🔗](https://arxiv.org/abs/2005.11401) | [📝 Blog](https://velog.io/@ybonghy/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-Attention-Is-All-You-Need-2017)|
 ### 🏷️ Reasoning & Inference
 
 ### 🏷️ Retrieval-Augmented Generation (RAG)
